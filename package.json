@@ -1,0 +1,25 @@
+{
+  "name": "12.08.2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saynschuman/auto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saynschuman/auto/issues"
+  },
+  "homepage": "https://github.com/saynschuman/auto#readme",
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
